@@ -1,0 +1,13 @@
+DB_HOST=localhost
+DB_PORT=5433
+DB_USERNAME=postgres
+DB_PASSWORD=task_password
+DB_NAME=task_2
+
+
+APP_PORT = 3000
+
+
+
+USERS_BATCH_SIZE = 1000
+TOTAL_USERS = 1000000
